@@ -1,0 +1,4 @@
+name = "Mosify"
+uuid = "c6b5ecc3-2a35-4c6e-8380-a9c30b45c197"
+authors = ["James Schloss <jrs.schloss@gmail.com>"]
+version = "0.1.0"
